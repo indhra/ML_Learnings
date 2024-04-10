@@ -15,7 +15,7 @@ Everything will be documented from Kaggle to Colab, from Text books to Blogs.
 4. ML Frame works Python
     1. Pytorch
     2. Tensorflow
-    3. Kears
+    3. Keras
     4. Pyspark
 5. Maths
 6. MLOPs
