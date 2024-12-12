@@ -1,0 +1,14 @@
+Case Study 1:
+Problem Statement: Predicting Engine Rating
+Find attached the data set (data.xlsx) as well as objectives ('DS Assignment.docx') to be completed 
+- feel free to reach out in case of any questions.
+
+Case Study 2:
+Problem: Flights to Trip mapping using generic code which can work for any number of connecting flights 
+i.e. recursive megres -  'Case Study_2_Flights.docx' .
+
+Please share python code for this
+Once we get these back, We will schedule the next round of discussion.
+Share a zipped file after collating assignment solutions files (jupyter notebook or py file) into a 
+folder with your name as the name of the folder.
+Keep raw data files (as shared by CARS24) as well in the folder, for ease in assignment assessment. 
