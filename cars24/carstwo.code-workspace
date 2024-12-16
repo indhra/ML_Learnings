@@ -9,5 +9,23 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "SQLDBTEST1",
+				"database": "DB1",
+				"username": "indhra",
+				"connectionTimeout": 100,
+				"password": ""
+			}
+		]
+	}
 }
